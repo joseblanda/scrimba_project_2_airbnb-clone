@@ -68,6 +68,20 @@
   margin-top: 0;
 }
 
+.cardSection {
+  display: flex;
+  /* max-width: 250px; */
+}
+
+.card {
+  padding-right: 20px;
+}
+
+.card--image {
+  max-width: 264px;
+  height: auto;
+}
+
 /* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
